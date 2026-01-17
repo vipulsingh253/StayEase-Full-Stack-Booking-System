@@ -25,8 +25,8 @@ A high-performance, full-stack **Property Booking Platform** built using the MER
 
 1.CLONE THE REPOSITORY
 ```bash
-git clone [https://github.com/vipulsingh253/airbnb-mern-clone.git](https://github.com/vipulsingh253/airbnb-mern-clone.git)
-cd airbnb-mern-clone
+git clone [https://github.com/vipulsingh253/StayEase-Full-Stack-Booking-System.git]([https://github.com/vipulsingh253/airbnb-mern-clone](https://github.com/vipulsingh253/StayEase-Full-Stack-Booking-System).git)
+cd StayEase-Full-Stack-Booking-System
 
 2.CONFIGURE BACKEND
 Navigate to the backend: cd backend
