@@ -1,6 +1,6 @@
 # StayEase - Full Stack MERN Project
 
-A high-performance, full-stack **Airbnb Clone** built using the MERN stack. This application features a robust property listing system, secure user authentication, real-time booking, and a dynamic search engine.
+A high-performance, full-stack **Property Booking Platform** built using the MERN stack. This application features a robust property listing system, secure user authentication, real-time booking, and a dynamic search engine.
 
 ##  Live Demo
 [Insert Your Render/Deployment Link Here]
