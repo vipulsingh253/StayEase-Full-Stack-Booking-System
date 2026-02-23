@@ -1,4 +1,4 @@
-# StayEase - Full Stack MERN Project
+# Airbnb Clone (MERN)
 
 A high-performance, full-stack **Property Booking Platform** built using the MERN stack. This application features a robust property listing system, secure user authentication, real-time booking, and a dynamic search engine.
 
@@ -25,8 +25,8 @@ A high-performance, full-stack **Property Booking Platform** built using the MER
 
 1.CLONE THE REPOSITORY
 ```bash
-git clone [https://github.com/vipulsingh253/StayEase-Full-Stack-Booking-System.git]([https://github.com/vipulsingh253/airbnb-mern-clone](https://github.com/vipulsingh253/StayEase-Full-Stack-Booking-System).git)
-cd StayEase-Full-Stack-Booking-System
+git clone [https://github.com/vipulsingh253/Airbnb Clone.git]([https://github.com/vipulsingh253/airbnb-mern-clone](https://github.com/vipulsingh253/Airbnb Clone.git)
+cd Airbnb Clone
 
 2.CONFIGURE BACKEND
 Navigate to the backend: cd backend
